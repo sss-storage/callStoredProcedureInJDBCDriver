@@ -23,8 +23,8 @@ It’s two actions:
 </do-set-local-variable>
 ```
 It should look like this when you are done:
-<src="actions.png">
+<img src="actions.png">
 
 You'll also have to setup the namespace:
-<src="namespacebtn.png">
-<src="namespace.png">
+<img src="namespacebtn.png">
+<img src="namespace.png">
