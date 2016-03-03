@@ -26,5 +26,5 @@ It should look like this when you are done:
 <img src="actions.png">
 
 You'll also have to setup the namespace:
-<img src="namespacebtn.png">
+<img src="namespaceBtn.png">
 <img src="namespace.png">
